@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<clientes>
+  <cliente id="1" nome="Antonio Carlos Silva" idade ="31" />
+  <cliente id="2" nome="João Henrique Santos" idade="25" />
+  <cliente id="3" nome="Anna Gabriela Ferreira" idade="35" />
+  <cliente id="4" nome="Rafeal Tedesco" idade="42" />
+</clientes>
